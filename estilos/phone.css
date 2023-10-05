@@ -6,7 +6,7 @@ html{
 }
 
 body{
-    background: url(../imagens/back-phone.jpg) no-repeat center center;
+    background: #000 url(../imagens/back-phone.jpg) no-repeat center center;
     background-attachment: fixed;
     background-size: cover;
 }
